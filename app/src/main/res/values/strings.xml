@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraX</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="record_video">Record Video</string>
+</resources>
